@@ -1,6 +1,6 @@
 <h1 align="center"> Hola soy Ángel Kemerer 👋</h1>
 
-<a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"/></a>
+<a target="_blank" href="https://github.com/angelkemerer"><img src="https://github.com/angelkemerer/angelkemerer/blob/main/portada_angel.jpg"/></a>
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
