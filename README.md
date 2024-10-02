@@ -3,9 +3,9 @@
 <a target="_blank" href="https://github.com/angelkemerer"><img src="https://github.com/angelkemerer/angelkemerer/blob/main/portada-angel-def.png"/></a>
 
 <pre>
-💻 Desarrollandome en Frontend, conocimientos en Estructuras de Datos con Python
+💻 Desarrollandome en Frontend, conocimientos en Estructuras de Datos con Python y POO
 📚 Estudiante de Ingenieria en Sistema de Informacion (UTN-FRC)
-🌟 Lenguajes principales: Javascript, Python
+🌟 Lenguajes principales: Javascript, Smalltalk y Python
 🚩 Interesado en Machine Learning y Ciencia de Datos
 </pre>
 
